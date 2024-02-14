@@ -200,6 +200,7 @@
 		222BC4532B74D5A2002091E4 /* Employee.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = Employee.hpp; sourceTree = "<group>"; };
 		222BC4552B74D5F7002091E4 /* file_data_functions.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = file_data_functions.cpp; sourceTree = "<group>"; };
 		222BC4562B74D5F7002091E4 /* file_data_functions.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = file_data_functions.hpp; sourceTree = "<group>"; };
+		226C412E2B7CBE2F00784F26 /* test_data */ = {isa = PBXFileReference; lastKnownFileType = folder; path = test_data; sourceTree = "<group>"; };
 		228D6F932B7A194C005C90DA /* doubly_skiplist */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = doubly_skiplist; sourceTree = BUILT_PRODUCTS_DIR; };
 		228D6F952B7A194C005C90DA /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		228D6F9C2B7A19B0005C90DA /* DoublySkipList.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = DoublySkipList.cpp; sourceTree = "<group>"; };
@@ -241,9 +242,6 @@
 		228D702F2B7A47C3005C90DA /* LinkedList.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = LinkedList.hpp; sourceTree = "<group>"; };
 		228D70332B7A4804005C90DA /* Node.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Node.cpp; sourceTree = "<group>"; };
 		228D70342B7A4804005C90DA /* Node.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = Node.hpp; sourceTree = "<group>"; };
-		22AB62722B7A90C900C4F851 /* operations_1_1.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = operations_1_1.csv; sourceTree = "<group>"; };
-		22AB62732B7A90C900C4F851 /* expected_output_1_1.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = expected_output_1_1.csv; sourceTree = "<group>"; };
-		22AB62742B7A90C900C4F851 /* dataset1_shuffled.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = dataset1_shuffled.csv; sourceTree = "<group>"; };
 		22FB1CFD2B73F47E00D97EC3 /* file_IO */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = file_IO; sourceTree = BUILT_PRODUCTS_DIR; };
 		22FB1CFF2B73F47F00D97EC3 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		22FB1D0A2B73F54600D97EC3 /* file_functions.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = file_functions.cpp; sourceTree = "<group>"; };
@@ -373,6 +371,7 @@
 		22246AAF2B72491F0056DE02 = {
 			isa = PBXGroup;
 			children = (
+				226C412E2B7CBE2F00784F26 /* test_data */,
 				228D6FE42B7A3284005C90DA /* All_Data_ninova */,
 				222801FA2B725C6B00FD36B2 /* array */,
 				22FB1CFE2B73F47F00D97EC3 /* file_IO */,
@@ -459,9 +458,6 @@
 				228D6FB82B7A2273005C90DA /* QuadruplySkipList.cpp */,
 				228D6FBE2B7A22A4005C90DA /* file_data_functions.cpp */,
 				228D6FAE2B7A21AA005C90DA /* main.cpp */,
-				22AB62742B7A90C900C4F851 /* dataset1_shuffled.csv */,
-				22AB62732B7A90C900C4F851 /* expected_output_1_1.csv */,
-				22AB62722B7A90C900C4F851 /* operations_1_1.csv */,
 			);
 			path = quadruply_skiplist;
 			sourceTree = "<group>";
