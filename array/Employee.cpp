@@ -1,4 +1,3 @@
-#pragma once
 #include "Employee.hpp"
 
 void Employee::set_salary(int salary){

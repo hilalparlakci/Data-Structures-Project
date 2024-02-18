@@ -1,5 +1,7 @@
 #include "Employee.hpp"
 
+Employee::Employee(){}
+
 Employee::Employee(int id, int salary, int department){  //create an employee object with given data
     this->id=id;
     this->salary=salary;
